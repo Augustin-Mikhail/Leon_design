@@ -1,2 +1,4 @@
 # Leon_design
-The first project with Html and css only
+The first project with HTML and CSS only
+
+## Project Notes
